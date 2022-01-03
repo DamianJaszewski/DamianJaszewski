@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DamianJaszewski
-- 👀 I’m interested in Full Stack Web Developing especially in Angular, Ionic Framework, C# and MySQL.
-- 🌱 I’m currently learning Ionic and Angular Framework.
-- 💞️ I’m looking to collaborate on an interesting web application and the first commercial application.
+- 👀 I’m interested in Full Stack Web Developing especially in .NET C#, React and SQL Angular.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on an interesting web application.
 - 📫 How to reach me damianjaszewski@gmail.com - feel free to contact me!
 
 <!---
