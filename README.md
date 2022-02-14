@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamianJaszewski
-- 👀 I’m interested in Full Stack Web Developing especially in .NET C#, React and SQL Angular.
+- 👀 I’m interested in Full Stack Web Developing especially in .NET C#, React and SQL.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on an interesting web application.
 - 📫 How to reach me damianjaszewski@gmail.com - feel free to contact me!
